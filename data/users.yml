@@ -1,4 +1,6 @@
-- name: 'Sébastien Saunier'
-  github_nickname: 'ssaunier'
-- name: 'Boris Paillard'
-  github_nickname: 'Papillard'
+sebastian:
+  name: 'Sébastien Saunier'
+  github_nickname: ssaunier
+boris:
+  name: 'Boris Paillard'
+  github_nickname: Papillard
